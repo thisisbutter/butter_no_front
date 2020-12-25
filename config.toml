@@ -1,7 +1,7 @@
 ##########################################
 # Site Settings
 
-baseURL = "/"
+baseURL = "https://mystifying-davinci-2d42f4.netlify.app/"
 title = "Butter no front"
 languageCode = "ja"
 hasCJKLanguage = false
