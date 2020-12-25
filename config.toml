@@ -1,7 +1,7 @@
 ##########################################
 # Site Settings
 
-baseURL = "https://example.com/"
+baseURL = "/"
 title = "Butter no front"
 languageCode = "ja"
 hasCJKLanguage = false
